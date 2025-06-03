@@ -1,0 +1,557 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		68FE69012DEF4915008DC380 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 68FE68E62DEF4913008DC380 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 68FE68ED2DEF4913008DC380;
+			remoteInfo = stanislaw_ios_challenge;
+		};
+		68FE690B2DEF4915008DC380 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 68FE68E62DEF4913008DC380 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 68FE68ED2DEF4913008DC380;
+			remoteInfo = stanislaw_ios_challenge;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		68FE68EE2DEF4913008DC380 /* stanislaw_ios_challenge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = stanislaw_ios_challenge.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		68FE69002DEF4915008DC380 /* stanislaw_ios_challengeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = stanislaw_ios_challengeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		68FE690A2DEF4915008DC380 /* stanislaw_ios_challengeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = stanislaw_ios_challengeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		68FE68F02DEF4913008DC380 /* stanislaw_ios_challenge */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = stanislaw_ios_challenge;
+			sourceTree = "<group>";
+		};
+		68FE69032DEF4915008DC380 /* stanislaw_ios_challengeTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = stanislaw_ios_challengeTests;
+			sourceTree = "<group>";
+		};
+		68FE690D2DEF4915008DC380 /* stanislaw_ios_challengeUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = stanislaw_ios_challengeUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		68FE68EB2DEF4913008DC380 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		68FE68FD2DEF4915008DC380 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		68FE69072DEF4915008DC380 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		68FE68E52DEF4913008DC380 = {
+			isa = PBXGroup;
+			children = (
+				68FE68F02DEF4913008DC380 /* stanislaw_ios_challenge */,
+				68FE69032DEF4915008DC380 /* stanislaw_ios_challengeTests */,
+				68FE690D2DEF4915008DC380 /* stanislaw_ios_challengeUITests */,
+				68FE68EF2DEF4913008DC380 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		68FE68EF2DEF4913008DC380 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				68FE68EE2DEF4913008DC380 /* stanislaw_ios_challenge.app */,
+				68FE69002DEF4915008DC380 /* stanislaw_ios_challengeTests.xctest */,
+				68FE690A2DEF4915008DC380 /* stanislaw_ios_challengeUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		68FE68ED2DEF4913008DC380 /* stanislaw_ios_challenge */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 68FE69142DEF4915008DC380 /* Build configuration list for PBXNativeTarget "stanislaw_ios_challenge" */;
+			buildPhases = (
+				68FE68EA2DEF4913008DC380 /* Sources */,
+				68FE68EB2DEF4913008DC380 /* Frameworks */,
+				68FE68EC2DEF4913008DC380 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				68FE68F02DEF4913008DC380 /* stanislaw_ios_challenge */,
+			);
+			name = stanislaw_ios_challenge;
+			packageProductDependencies = (
+			);
+			productName = stanislaw_ios_challenge;
+			productReference = 68FE68EE2DEF4913008DC380 /* stanislaw_ios_challenge.app */;
+			productType = "com.apple.product-type.application";
+		};
+		68FE68FF2DEF4915008DC380 /* stanislaw_ios_challengeTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 68FE69172DEF4915008DC380 /* Build configuration list for PBXNativeTarget "stanislaw_ios_challengeTests" */;
+			buildPhases = (
+				68FE68FC2DEF4915008DC380 /* Sources */,
+				68FE68FD2DEF4915008DC380 /* Frameworks */,
+				68FE68FE2DEF4915008DC380 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				68FE69022DEF4915008DC380 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				68FE69032DEF4915008DC380 /* stanislaw_ios_challengeTests */,
+			);
+			name = stanislaw_ios_challengeTests;
+			packageProductDependencies = (
+			);
+			productName = stanislaw_ios_challengeTests;
+			productReference = 68FE69002DEF4915008DC380 /* stanislaw_ios_challengeTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		68FE69092DEF4915008DC380 /* stanislaw_ios_challengeUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 68FE691A2DEF4915008DC380 /* Build configuration list for PBXNativeTarget "stanislaw_ios_challengeUITests" */;
+			buildPhases = (
+				68FE69062DEF4915008DC380 /* Sources */,
+				68FE69072DEF4915008DC380 /* Frameworks */,
+				68FE69082DEF4915008DC380 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				68FE690C2DEF4915008DC380 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				68FE690D2DEF4915008DC380 /* stanislaw_ios_challengeUITests */,
+			);
+			name = stanislaw_ios_challengeUITests;
+			packageProductDependencies = (
+			);
+			productName = stanislaw_ios_challengeUITests;
+			productReference = 68FE690A2DEF4915008DC380 /* stanislaw_ios_challengeUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		68FE68E62DEF4913008DC380 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					68FE68ED2DEF4913008DC380 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					68FE68FF2DEF4915008DC380 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 68FE68ED2DEF4913008DC380;
+					};
+					68FE69092DEF4915008DC380 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 68FE68ED2DEF4913008DC380;
+					};
+				};
+			};
+			buildConfigurationList = 68FE68E92DEF4913008DC380 /* Build configuration list for PBXProject "stanislaw_ios_challenge" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 68FE68E52DEF4913008DC380;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 68FE68EF2DEF4913008DC380 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				68FE68ED2DEF4913008DC380 /* stanislaw_ios_challenge */,
+				68FE68FF2DEF4915008DC380 /* stanislaw_ios_challengeTests */,
+				68FE69092DEF4915008DC380 /* stanislaw_ios_challengeUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		68FE68EC2DEF4913008DC380 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		68FE68FE2DEF4915008DC380 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		68FE69082DEF4915008DC380 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		68FE68EA2DEF4913008DC380 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		68FE68FC2DEF4915008DC380 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		68FE69062DEF4915008DC380 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		68FE69022DEF4915008DC380 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 68FE68ED2DEF4913008DC380 /* stanislaw_ios_challenge */;
+			targetProxy = 68FE69012DEF4915008DC380 /* PBXContainerItemProxy */;
+		};
+		68FE690C2DEF4915008DC380 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 68FE68ED2DEF4913008DC380 /* stanislaw_ios_challenge */;
+			targetProxy = 68FE690B2DEF4915008DC380 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		68FE69122DEF4915008DC380 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		68FE69132DEF4915008DC380 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		68FE69152DEF4915008DC380 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"stanislaw_ios_challenge/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "renanmdreis.stanislaw-ios-challenge";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		68FE69162DEF4915008DC380 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"stanislaw_ios_challenge/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "renanmdreis.stanislaw-ios-challenge";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		68FE69182DEF4915008DC380 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "renanmdreis.stanislaw-ios-challengeTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/stanislaw_ios_challenge.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/stanislaw_ios_challenge";
+			};
+			name = Debug;
+		};
+		68FE69192DEF4915008DC380 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "renanmdreis.stanislaw-ios-challengeTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/stanislaw_ios_challenge.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/stanislaw_ios_challenge";
+			};
+			name = Release;
+		};
+		68FE691B2DEF4915008DC380 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "renanmdreis.stanislaw-ios-challengeUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = stanislaw_ios_challenge;
+			};
+			name = Debug;
+		};
+		68FE691C2DEF4915008DC380 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "renanmdreis.stanislaw-ios-challengeUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = stanislaw_ios_challenge;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		68FE68E92DEF4913008DC380 /* Build configuration list for PBXProject "stanislaw_ios_challenge" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				68FE69122DEF4915008DC380 /* Debug */,
+				68FE69132DEF4915008DC380 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		68FE69142DEF4915008DC380 /* Build configuration list for PBXNativeTarget "stanislaw_ios_challenge" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				68FE69152DEF4915008DC380 /* Debug */,
+				68FE69162DEF4915008DC380 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		68FE69172DEF4915008DC380 /* Build configuration list for PBXNativeTarget "stanislaw_ios_challengeTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				68FE69182DEF4915008DC380 /* Debug */,
+				68FE69192DEF4915008DC380 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		68FE691A2DEF4915008DC380 /* Build configuration list for PBXNativeTarget "stanislaw_ios_challengeUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				68FE691B2DEF4915008DC380 /* Debug */,
+				68FE691C2DEF4915008DC380 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 68FE68E62DEF4913008DC380 /* Project object */;
+}
