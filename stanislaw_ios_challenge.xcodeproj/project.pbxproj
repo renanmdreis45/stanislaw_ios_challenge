@@ -35,16 +35,6 @@
 			path = stanislaw_ios_challenge;
 			sourceTree = "<group>";
 		};
-		68FE69032DEF4915008DC380 /* stanislaw_ios_challengeTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = stanislaw_ios_challengeTests;
-			sourceTree = "<group>";
-		};
-		68FE690D2DEF4915008DC380 /* stanislaw_ios_challengeUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = stanislaw_ios_challengeUITests;
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,8 +66,6 @@
 			isa = PBXGroup;
 			children = (
 				68FE68F02DEF4913008DC380 /* stanislaw_ios_challenge */,
-				68FE69032DEF4915008DC380 /* stanislaw_ios_challengeTests */,
-				68FE690D2DEF4915008DC380 /* stanislaw_ios_challengeUITests */,
 				68FE68EF2DEF4913008DC380 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -130,9 +118,6 @@
 			dependencies = (
 				68FE69022DEF4915008DC380 /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				68FE69032DEF4915008DC380 /* stanislaw_ios_challengeTests */,
-			);
 			name = stanislaw_ios_challengeTests;
 			packageProductDependencies = (
 			);
@@ -152,9 +137,6 @@
 			);
 			dependencies = (
 				68FE690C2DEF4915008DC380 /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				68FE690D2DEF4915008DC380 /* stanislaw_ios_challengeUITests */,
 			);
 			name = stanislaw_ios_challengeUITests;
 			packageProductDependencies = (
